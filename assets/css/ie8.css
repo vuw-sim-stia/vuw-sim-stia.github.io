@@ -1,13 +1,11 @@
 /*
-	Parallelism by HTML5 UP
+	Lens by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* Basic */
+/* Viewer */
 
-	body {
-		background-image: url("../../images/bg.jpg");
-		background-size: cover;
-		-ms-behavior: url("assets/js/ie/backgroundsize.min.htc");
+	#viewer {
+		width: 100%;
 	}
